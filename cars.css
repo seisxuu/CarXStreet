@@ -146,6 +146,10 @@ img {
 }
 .imgg {
     display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    
 }
 .imgg:hover {
     transform:scale(3.0);
